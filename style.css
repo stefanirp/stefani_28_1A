@@ -2,3 +2,22 @@ body{
     background-color: aquamarine;
     color: black;
 }
+section{
+    background: rgb(205, 205, 240);
+    padding-bottom: 5px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    }
+    
+    .chamada-texto{
+    margin-right: 5%;
+    }
+    img{
+    height: 200px;
+    }
+    .categorias_videos{
+    display: flex;
+    overflow: auto;
+    gap: 15 px;
+    }
